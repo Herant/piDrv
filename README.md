@@ -1,8 +1,12 @@
 # piDrv
 selv driving raspberry pi rc car, with only video as input.
 
+Here's some examples of this program:
+
 https://www.youtube.com/watch?v=w9t7N6BsKLE
+
 https://www.youtube.com/watch?v=ykFyVyn9zIk
+
 https://www.youtube.com/watch?v=EriapUwfpHA
 
 In order for this to work you need to install Python 3.5(other may work, but i found 3.5 to work best with the libraries).
