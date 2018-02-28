@@ -25,6 +25,8 @@ Since when i was working on that project i didn't know how to program in OOP nei
 
 Also, i run all of the programs on my client computer and only recieving video through streamer and sending GPIO pin commands through gpiozero. The stream that i used is this one: http://petrkout.com/electronics/low-latency-0-4-s-video-streaming-from-raspberry-pi-mjpeg-streamer-opencv/ i found this to by far the best choice since low latency.
 
+drawlines.py is originally written by Udacity for their opensource selv driving car course. The code was rewritten by me to fit this project.
+
 After all of the libraries are installed, run the code by running main.py
 
 main.py is designed to grab the defined corner of your upper left screen and process that area. With this code running you can place random driving video from youtube to see that lines are being detected.
